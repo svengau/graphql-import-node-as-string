@@ -1,21 +1,17 @@
 {
-  "name": "graphql-import-node",
+  "name": "graphql-import-node-as-string",
   "version": "0.0.4",
   "main": "register.js",
-  "types": "register.d.ts",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "ardatan/graphql-import-node"
+    "url": "carpathian-ninjas/graphql-import-node-as-string"
   },
   "scripts": {
     "test": "mocha"
   },
   "devDependencies": {
-    "graphql": "14.2.1",
     "mocha": "6.1.4"
   },
-  "peerDependencies": {
-    "graphql": "*"
-  }
+  "keywords": ["graphql import", "graphql require", "graphql node", "import graphql string node"],
 }
